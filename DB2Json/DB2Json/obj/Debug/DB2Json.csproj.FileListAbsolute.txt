@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\bin\Debug\DB2Json.dll
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\bin\Debug\DB2Json.pdb
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\obj\Debug\DB2Json.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\obj\Debug\DB2Json.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\obj\Debug\DB2Json.dll
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\obj\Debug\DB2Json.pdb
+C:\Users\Administrator\source\repos\DB2Json\DB2Json\obj\Debug\DB2Json.csproj.AssemblyReference.cache

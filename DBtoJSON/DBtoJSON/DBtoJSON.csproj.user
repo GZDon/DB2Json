@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BindDBField_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataMapping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DBSetting_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DBtoJson_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailField.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JsonData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JsonDataSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JsonFormat_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
